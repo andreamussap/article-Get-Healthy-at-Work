@@ -1,4 +1,4 @@
-# Small acts can make a big difference
+# Small acts can make a big difference.
 
 I know that it's not easy to practice all these things during a working day where we already have so many things to do, tasks to close, endless meetings to join, deadlines to meet, etc; but like I said in the beginning, if you have to go through all of this feeling ill you'll have a miserable day. 
 
