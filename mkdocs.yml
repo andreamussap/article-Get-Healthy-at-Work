@@ -1,0 +1,10 @@
+site_name: Get Healthy at Work
+pages:
+    - Introduction: 'get-healthy.md'	
+    - Hidration: 'water.md'
+    - Snack: 'snack.md'
+    - Stand: 'stand.md'
+    - Stretch: 'stretch.md'
+    - Final Tips: 'final-tips'
+theme: readthedocs
+google_analytics: ['UA-45971598-3', 'auto']
