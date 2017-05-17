@@ -5,6 +5,6 @@ pages:
     - Snack: 'snack.md'
     - Stand: 'stand.md'
     - Stretch: 'stretch.md'
-    - Final Tips: 'final-tips'
+    - Final Tips: 'final-tips.md'
 theme: readthedocs
 google_analytics: ['UA-45971598-3', 'auto']
