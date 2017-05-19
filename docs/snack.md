@@ -4,4 +4,4 @@ It goes without saying how important breakfast and lunch are for our health. But
 
 And why not take this lunch break to get up and stretch your legs? So, grab your snack and go for a walk while enjoying it.
 
-![](/images/healthy-office-snacks.jpg)
+![](/img/healthy-office-snacks.jpg)

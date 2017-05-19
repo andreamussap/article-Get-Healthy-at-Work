@@ -1,7 +1,6 @@
 site_name: Get Healthy at Work
 pages:
-    - Index: 'index.md'
-    - Introduction: 'get-healthy.md'
+    - Introduction: 'index.md'
     - Hidration: 'water.md'
     - Snack: 'snack.md'
     - Stand: 'stand.md'

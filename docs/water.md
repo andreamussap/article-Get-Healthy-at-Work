@@ -4,4 +4,4 @@ Sometimes we are so involved in a task that even if we remember that we are **th
 
 Oh! And if you will spend your day from one meeting to another, you should carry your bottle with you.
 
-![](/images/water.jpg)
+![](/img/water.jpg)
