@@ -3,8 +3,16 @@
 
     
     <url>
+     <loc>/</loc>
+     <lastmod>2017-05-19</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
      <loc>/get-healthy/</loc>
-     <lastmod>2017-05-17</lastmod>
+     <lastmod>2017-05-19</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
@@ -12,7 +20,7 @@
     
     <url>
      <loc>/water/</loc>
-     <lastmod>2017-05-17</lastmod>
+     <lastmod>2017-05-19</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
@@ -20,7 +28,7 @@
     
     <url>
      <loc>/snack/</loc>
-     <lastmod>2017-05-17</lastmod>
+     <lastmod>2017-05-19</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
@@ -28,7 +36,7 @@
     
     <url>
      <loc>/stand/</loc>
-     <lastmod>2017-05-17</lastmod>
+     <lastmod>2017-05-19</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
@@ -36,7 +44,7 @@
     
     <url>
      <loc>/stretch/</loc>
-     <lastmod>2017-05-17</lastmod>
+     <lastmod>2017-05-19</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
@@ -44,7 +52,7 @@
     
     <url>
      <loc>/final-tips/</loc>
-     <lastmod>2017-05-17</lastmod>
+     <lastmod>2017-05-19</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
