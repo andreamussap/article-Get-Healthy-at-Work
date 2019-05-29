@@ -2,5 +2,7 @@
 
 This article gives tips on how to get healthy at work.
 
-[Check the article here](https://andreamussap.github.io/article-Get-Healthy-at-Work/){:target="_blank"}
+
+
+<a href="https://andreamussap.github.io/article-Get-Healthy-at-Work/" target="_blank">Check the article here</a>
 
